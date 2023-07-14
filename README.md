@@ -19,7 +19,7 @@
 
 # Welcome to my Github Profile
 
-I am a cybersecurity student seeking professional experience to align with my education. As of now (Spring 2023) I am mostly working on my own personal website using github pages - my cybersecurity labs have all been housed and completed locally so far, aside from forking some source repositories to start. My hope is to refine my skill and begin using Github more effectively with security related projects.
+Cybersecurity student/specialist seeking professional experience that aligns with my education. I hope to refine my coding skill and begin using Github more effectively with security related projects in the future.
 
 Interests: Kubernetes, microservices, containerization, zero-trust philosohpy, access management, policy-as-code, secrets management, vehicle-to-everything (V2X) / vehicle ad-hoc networks (VANET)
 

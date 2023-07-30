@@ -21,7 +21,7 @@
 
 Cybersecurity student/specialist seeking professional experience that aligns with my education. I hope to refine my coding skill and begin using Github more effectively with security related projects in the future.
 
-Interests: Kubernetes, microservices, containerization, zero-trust philosohpy, access management, policy-as-code, secrets management, vehicle-to-everything (V2X) / vehicle ad-hoc networks (VANET)
+Interests: Kubernetes, microservices, containerization, zero-trust philosohpy, access management, policy-as-code, secrets management, vehicle-to-everything (V2X) / vehicle ad-hoc networks (VANET), cloud computing, quantum computing, AI & ML. 
 
 
 <!--

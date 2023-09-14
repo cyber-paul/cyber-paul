@@ -21,8 +21,6 @@
 
 Cybersecurity student/specialist - I hope to refine my DevOps skill and begin using Github more effectively with security related projects.
 
-Interests: Kubernetes, microservices, containerization, zero-trust philosohpy, access management, policy-as-code, secrets management, vehicle-to-everything (V2X) / vehicle ad-hoc networks (VANET), cloud computing, quantum computing, AI & ML. 
-
 
 <!--
 **cyber-paul/cyber-paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

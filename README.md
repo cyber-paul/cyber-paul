@@ -19,7 +19,7 @@
 
 # Welcome to my Github Profile
 
-Cybersecurity specialist - I hope to refine my DevOps skill and begin using Github more effectively with security related projects.
+Cybersecurity Specialist - Check yo'self before you wreck yo'self.
 
 
 <!--

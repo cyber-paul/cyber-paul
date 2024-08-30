@@ -17,7 +17,7 @@
 
 
 
-# Paul M. Brown, EST. 1993
+# Paul M. Brown, 
 
 Cybersecurity Specialist - Check yo'self before you wreck yo'self.
 

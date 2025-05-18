@@ -19,7 +19,7 @@
 
 # Paul M. Brown, 
 
-Cybersecurity Specialist - Check yo'self before you wreck yo'self.
+CyberExpert - Check yo'self before you wreck yo'self.
 
 
 <!--
